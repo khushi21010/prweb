@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@1,6..12,500&family=Rowdies:wght@300&display=swap');
+body{
+    background-color:papayawhip;
+        }
+h1{
+    font-size: 40px;
+    font-style:normal;
+    text-shadow:2px 4px 2px rgba(46,91,)
+}
+button{
+
+    background-color:#7def7d;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    font-size: 15px;
+
+    }
+.container {
+    padding:15px;
+    background-color: black;
+    align-items:baseline;
+    float: left;
+    
+}
+.image {
+    float: left;
+    
+}
+.navbar {
+    
+
+   
+   padding-top:5px;
+   padding-right:10px; 
+   background-color: aliceblue;
+   height:50px;
+   text-align: right;
+    
+}
+.different{
+    padding:15px;
+    background-color: black;
+    align-items:center;
+    float: left;
+    background-size: 400px;
+}
+.new image{
+    margin-top: 60px;
+    margin-right: 180;
+    text-shadow: 10px 10px #868080;
+    border: #868080;
+
+   
+    
+
+}
+
